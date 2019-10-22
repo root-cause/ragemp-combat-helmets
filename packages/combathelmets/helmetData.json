@@ -1,0 +1,42 @@
+{
+  "1885233650": {
+    "117": {
+      "closed": 116,
+      "type": "nightvision",
+      "anim": "goggles"
+    },
+    "119": {
+      "closed": 118,
+      "type": "thermal",
+      "anim": "goggles"
+    },
+    "124": {
+      "closed": 123,
+      "anim": "visor"
+    },
+    "126": {
+      "closed": 125,
+      "anim": "visor"
+    }
+  },
+  "2627665880": {
+    "116": {
+      "closed": 115,
+      "type": "nightvision",
+      "anim": "goggles"
+    },
+    "118": {
+      "closed": 117,
+      "type": "thermal",
+      "anim": "goggles"
+    },
+    "123": {
+      "closed": 122,
+      "anim": "visor"
+    },
+    "125": {
+      "closed": 124,
+      "anim": "visor"
+    }
+  }
+}
